@@ -28,6 +28,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </a>
 <a href="http://psmportfolio.com/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-F68315?style=flat&logo=HomeAdvisor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-F68315?style=flat&logo=HomeAdvisor&logoColor=white" />
 </a>
 </div>
