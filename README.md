@@ -4,7 +4,7 @@
   
  #### :hatching_chick: Introduce :hatching_chick:
 
-###### 현재 프론트엔드 개발자가 되기위하여 공부하고 있는 박승민 입니다 :blush:
+###### 프론트엔드 개발을 하고있는 박승민 입니다 :blush:
   
   
   
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
   
-#### PORTFOLIO
+#### :star2: PORTFOLIO :star2:
 <a href="https://velog.io/@smpark3095">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
