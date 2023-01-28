@@ -4,7 +4,7 @@
   
  #### :hatching_chick: Intro :hatching_chick:
 
-###### 프론트엔드 개발을 하고있는 박승민 입니다 :blush:
+###### 안녕하세요! 프론트엔드 박승민 입니다 :blush:
   
   
   
